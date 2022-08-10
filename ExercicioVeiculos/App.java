@@ -13,7 +13,7 @@ public class App{
         System.out.println("----------------");
 
         v.dirige(250);
-        System.out.println("Dados do veiculo depois de percorrer 250Km:");
+        //System.out.println("Dados do veiculo depois de percorrer 250Km:");
         System.out.println(v);
         System.out.println("----------------");
         }
