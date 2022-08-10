@@ -1,0 +1,5 @@
+#ignora a classe placa
+.placa.java
+
+#ignora a classe veiculo
+.veiculo.java
